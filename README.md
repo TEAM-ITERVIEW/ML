@@ -6,7 +6,7 @@
 
 | 팀원 | [이서진](https://github.com/529539) | [임채영](https://github.com/cha2y0ung) | [이채원](https://github.com/gchaewon) |
 |:------:|:------:|:---------:|:---------:|
-| Repository | [FE](https://github.com/TEAM-ITERVIEW/CLIENT) | [BE](https://github.com/TEAM-ITERVIEW/SERVER) | [ML_SERVER](https://github.com/TEAM-ITERVIEW/ML_SERVER) |
+| Repository | [FE](https://github.com/TEAM-ITERVIEW/CLIENT) | [BE](https://github.com/TEAM-ITERVIEW/SERVER) | [ML](https://github.com/TEAM-ITERVIEW/ML), [ML_SERVER](https://github.com/TEAM-ITERVIEW/ML_SERVER) |
 
 ### 💻 ML model Start
 | **설치** | **실행** |
