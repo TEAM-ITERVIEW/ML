@@ -23,8 +23,8 @@
 ### 🔗 ML model Reference 
 | **모델** | **링크** |
 | :--- | :---: |
-| 음성 분석 binary, multi 모델|<a href="https://github.com/EwhaSpeakUP/SpeakUP_ML/tree/master"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
-| 표정 분석 모델 |<a href="https://blog.naver.com/handuelly/221854592096"><img src ="https://img.shields.io/badge/Blog_link-blue?style=flat"/></a>|
+| **음성 분석 binary, multi 모델**|<a href="https://github.com/EwhaSpeakUP/SpeakUP_ML/tree/master"><img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white"/></a>|
+| **표정 분석 모델** |<a href="https://blog.naver.com/handuelly/221854592096"><img src ="https://img.shields.io/badge/Blog_link-blue?style=flat"/></a>|
 
 
 
