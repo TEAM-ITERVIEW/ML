@@ -13,6 +13,11 @@
 | :--- | :---: |
 | **`git clone https://github.com/TEAM-ITERVIEW/ML.git`** <br/> **`google drive 업로드`** | **`colab 환경에서 실행`** |
 
+### 📊 Data Download
+| **데이터** | **링크** |
+| :--- | :---: |
+| **표정분석 모델 학습 데이터** | <a href="https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition"><img src ="https://img.shields.io/badge/Kaggle fer2013.csv-blue?style=flat"/></a>|
+
 
 
 ### 🔗 ML model Reference 
