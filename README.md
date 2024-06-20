@@ -13,6 +13,20 @@
 | :--- | :---: |
 | **`git clone https://github.com/TEAM-ITERVIEW/ML.git`** <br/> **`google drive 업로드`** | **`colab 환경에서 실행`** |
 
+| ML Folder Structure | 
+| :--- |
+|<table>
+      ML
+      ├─ 📂 face_emoton_classification    ▶️ 표정 분석 
+      ├─ 📂 speech_classification    ▶️ 음성 분석 
+          ├─ 📂 dataset   ▶️ 음성 모델 학습에 사용된 데이터
+          ├─ binary.ipynb     ▶️ 음성 이진 분류 (비언어적, 언어적) 모델 학습 파일
+          ├─ binary_model.h5  ▶️ 음성 이진 분류 모델
+          ├─ multi.ipynb      ▶️ 음성 다중 분류 (음, 그, 어) 모델 학습 파일
+          └─ multi_model.h5   ▶️ 음성 다중 분류 모델
+      └─ README.md
+</table>
+
 ### 📊 Data Download
 | **데이터** | **링크** |
 | :--- | :---: |
